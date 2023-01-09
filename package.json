@@ -2,7 +2,7 @@
     "name": "synchronous-message-queues",
     "version": "1.0.0",
     "main": "index.js",
-    "repository": "https://github.com/jeastman-io/synchronous-message-queues.git",
+    "repository": "https://github.com/jeastman19/note-ts-express-template/blob/main/package.json",
     "author": "Jorge Eastman <jeastman19@gmail.com>",
     "license": "MIT",
     "scripts": {
